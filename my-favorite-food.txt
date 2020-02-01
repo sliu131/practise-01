@@ -1,2 +1,5 @@
 shrimp
 pork
+kiwi
+mango
+melon
